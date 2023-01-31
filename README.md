@@ -10,6 +10,7 @@
 ## 팀원 소개
 
 김민주 (경영학, 4)
+Minjoo Kim (Business Administration, Senior)
 
 김민지 (응용통계학, 4)
 
